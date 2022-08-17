@@ -3,3 +3,21 @@
     text-align: center;
     background-color: yellow;
 }
+
+.School_heading 
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+
+.School_heading i {
+
+    float: right;
+}
+
+.Event_text span {
+    color: orange;
+}
